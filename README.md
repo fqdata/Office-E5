@@ -56,6 +56,8 @@
 
 5. ##### 最后必须要自己 `star` 一下才会开始运行，测试的的时候只要点两次就好了（取消star，然后再star）
 
+PS：看不懂呀看不懂~
+
 ## 本地
 
 用 `main.md` 中的代码替换 `Main.class` 中的代码，并把在 `resources` 目录中的 `officeE5.properties` 文件中的值替换成自己的
